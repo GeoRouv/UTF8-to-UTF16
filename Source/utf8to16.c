@@ -51,7 +51,7 @@ int main(void){
 
 			z=a|b|c|d;
 		}
-		if(!flag){				//Error:faulse input text file
+		if(!flag){				//Error:false input text file
 			printf("\n TEXT NOT IN UTF-8");
 			break;
 		}
